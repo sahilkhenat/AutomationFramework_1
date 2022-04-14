@@ -1,0 +1,5 @@
+My Store
+Assertion error occurred
+assert False
+I am inside finally block
+Test completed

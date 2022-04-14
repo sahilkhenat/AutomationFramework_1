@@ -1,0 +1,30 @@
+No such element found
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='logout1']"}
+  (Session info: chrome=100.0.4896.88)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00807413+2389011]
+	Ordinal0 [0x00799F61+1941345]
+	Ordinal0 [0x0068C658+837208]
+	Ordinal0 [0x006B91DD+1020381]
+	Ordinal0 [0x006B949B+1021083]
+	Ordinal0 [0x006E6032+1204274]
+	Ordinal0 [0x006D4194+1130900]
+	Ordinal0 [0x006E4302+1196802]
+	Ordinal0 [0x006D3F66+1130342]
+	Ordinal0 [0x006AE546+976198]
+	Ordinal0 [0x006AF456+980054]
+	GetHandleVerifier [0x009B9632+1727522]
+	GetHandleVerifier [0x00A6BA4D+2457661]
+	GetHandleVerifier [0x0089EB81+569713]
+	GetHandleVerifier [0x0089DD76+566118]
+	Ordinal0 [0x007A0B2B+1968939]
+	Ordinal0 [0x007A5988+1989000]
+	Ordinal0 [0x007A5A75+1989237]
+	Ordinal0 [0x007AECB1+2026673]
+	BaseThreadInitThunk [0x76576739+25]
+	RtlGetFullPathName_UEx [0x779F8E7F+1215]
+	RtlGetFullPathName_UEx [0x779F8E4D+1165]
+
+I am inside finally block
+Test completed

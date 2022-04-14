@@ -1,0 +1,6 @@
+Assertion error occurred
+assert 'My Store' == 'My Stor'
+  - My Stor
+  + My Store
+  ?        +
+Test completed
